@@ -29,9 +29,9 @@ phpMyAdmin / Jupyter / Obsidian
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| Coming soon... | | |
+| Project | Description | Stack | URL |
+|---------|-------------|-------|-----|
+| [AI-Blog](https://github.com/Shoma540/AI-Blog) | Claude Code Routines で自動更新される全国祭り情報サイト | Claude Code / GitHub Pages / X API / Instagram API | [サイト](https://shoma540.github.io/AI-Blog/) |
 
 ---
 
